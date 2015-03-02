@@ -1,0 +1,15 @@
+{
+  "name": "node_upload",
+  "version": "1.0.0",
+  "description": "As a user I want to select a local PNG image from my hard drive, upload it to the server, and have it displayed in an html page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.0",
+    "request": "^2.53.0"
+  }
+}
